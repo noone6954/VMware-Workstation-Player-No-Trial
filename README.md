@@ -1,0 +1,1 @@
+# VMware-Workstation-Player-No-Trial
